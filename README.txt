@@ -1,3 +1,5 @@
-A Pen created at CodePen.io. by J Sutherland - JRMS999
+Color finder using vue.js
+
+type in the color code or even just the color name and watch the color populate ...
 
  Simple color viewer, I'm new to vuejs !
